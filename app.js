@@ -20,8 +20,7 @@ const filterSelect = document.getElementById("filter-category");
 
 // Populate Category Dropdowns Dynamically (Sorted Alphabetically)
 function populateCategories() {
-  const sortedCategories = [...categories].sort((a, b) => a.localeCompare(b));
-  
+  const sortedCategories = [...categories].sort((a, b) => a.localeCompare(b));  
   categorySelect.innerHTML = sortedCategories.map(c => `<option value="${c}">${c}</option>`).join("");
   filterSelect.innerHTML = `<option value="All">All</option>` + categorySelect.innerHTML;
 }
