@@ -21,7 +21,7 @@ Technical Breakdown
 What Will Be Delivered
 1.	index.html: The structure of the page (forms, summary cards, chart area, table).
 2.	styles.css: CSS layout (Grid/Flexbox) making it responsive across devices.
-3.	app.js: All JavaScript logic (Classes, Chart.js, saving, events).
+3.	app.js: All JavaScript logic (Classes, saving, events).
 4.	Live Site & Code Repository: A GitHub repository with at least 15 commits, published live on GitHub Pages, Netlify, or Vercel.
 Execution Plan
 Setup & Core Classes
@@ -33,9 +33,8 @@ Data Management & Storage
 •	Implement localStorage logic to save and restore transaction objects when the page loads.
 Interface & Chart Integration
 •	Design the HTML layout (KPI cards, input forms, and transaction table) with responsive CSS Grid/Flexbox styling.
-•	Integrate Chart.js to render and dynamically update the doughnut chart without display glitches.
 Interactivity & Deployment
 •	Hook up button listeners for submitting forms, deleting entries, and filtering categories.
 •	Bind everything into a single renderUI() loop.
-•	Clean up the code, test edge cases, push 15+ Git commits, and deploy the project live
+•	Clean up the code, test edge cases, and deploy the project live
 
