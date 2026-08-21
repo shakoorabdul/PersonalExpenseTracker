@@ -1,4 +1,4 @@
-[[Watch the video](https://youtube.ca)](https://youtu.be/gN3Z2lwMyAI)
+[Watch the video](https://youtube.ca)](https://youtu.be/gN3Z2lwMyAI)
 
 
 Project Overview
