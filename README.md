@@ -1,4 +1,6 @@
 [![Watch the video](https://youtube.ca)](https://youtu.be/gN3Z2lwMyAI)
+
+
 Project Overview
 It is a browser-based Personal Finance & Expense Tracker that runs entirely on the client side (no server needed). User data stays private and is saved locally in the browser.
 Main Goals
